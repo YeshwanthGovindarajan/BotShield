@@ -1,4 +1,5 @@
-users = [
+roughusers = 
+[
     {
         "id": "u1217628182611927040",
         "username": "boazbaraktcs",
@@ -107,24 +108,10 @@ users = [
         }
     },
 
-    {
-        "id": "u36741729",
-        "username": "Matthew_Brody",
-        "name": "Matthew Stubblefield",
-        "created_at": "2009-04-30 19:01:42+00:00",
-        "location": "United States",
-        "description": "Father / SWT Alumnus / Longhorn Fan",
-        "url": "",
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1458084621351112704/6S-ZgwIj_normal.jpg",
-        "protected": True,
-        "verified": False,
-        "public_me
+  ]
 
 
-
-[{'attachments': None, 'author_id': 1304855289208819713, 'context_annotations': None, 'conversation_id': 1497798545872588801, 'created_at': '2022-02-27 04:59:35+00:00', 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'phaseknight_', 'name': 'sapphire starlight 💙✨', 'id': 976935699793539073, 'id_str': '976935699793539073', 'indices': [0, 13]}], 'urls': [], 'media': [{'id': 1497798542869422086, 'id_str': '1497798542869422086', 'indices': [135, 158], 'media_url': 'http://pbs.twimg.com/media/FMk_1szUYAYeJ7N.jpg', 'media_url_https': 'https://pbs.twimg.com/media/FMk_1szUYAYeJ7N.jpg', 'url': 'https://t.co/GXjjq83Rrn', 'display_url': 'pic.twitter.com/GXjjq83Rrn', 'expanded_url': 'https://twitter.com/cbtillustrates/status/1497798545872588801/photo/1', 'type': 'photo', 'sizes': {'large': {'w': 1575, 'h': 2025, 'resize': 'fit'}, 'thumb': {'w': 150, 'h': 150, 'resize': 'crop'}, 'medium': {'w': 933, 'h': 1200, 'resize': 'fit'}, 'small': {'w': 529, 'h': 680, 'resize': 'fit'}}}]}, 'geo': None, 'id': 't1497798545872588801', 'in_reply_to_user_id': 976935699793539073, 'lang': 'en', 'possibly_sensitive': False, 'public_metrics': {'retweet_count': 0, 'reply_count': None, 'like_count': 8, 'quote_count': None}, 'referenced_tweets': None, 'reply_settings': None, 'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 'text': "@phaseknight_ Although I didn't base this sketch on you specifically, I really think it vibes with your amazing NSFW Laudna cosplay! 🖤 https://t.co/GXjjq83Rrn", 'withheld': None}, {'attachments': None, 'author_id': 1304855289208819713, 'context_annotations': None, 'conversation_id': 1496915534717210656, 'created_at': '2022-02-24 18:30:49+00:00', 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'matthewmercer', 'name': 'Matthew Mercer', 'id': 24630350, 'id_str': '24630350', 'indices': [59, 73]}, {'screen_name': 'CriticalRole', 'name': 'Critical Role', 'id': 3159148494, 'id_str': '3159148494', 'indices': [74, 87]}, {'screen_name': 'TitmouseInc', 'name': 'Titmouse Animation', 'id': 17278037, 'id_str': '17278037', 'indices': [88, 100]}], 'urls': [{'url': 'https://t.co/VydxEYfaXi', 'expanded_url': 'https://twitter.com/cbtillustrates/status/1495109640459198464', 'display_url': 'twitter.com/cbtillustrates…', 'indices': [101, 124]}]}, 'geo': None, 'id': 't1496915534717210656', 'in_reply_to_user_id': None, 'lang': 'en', 'possibly_sensitive': False, 'public_metrics': {'retweet_count': 0, 'reply_count': None, 'like_count': 1, 'quote_count': None}, 'referenced_tweets': None, 'reply_settings': None, 'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 'text': "I mean, doesn't his beautiful face just scream Trinket?! 🥺 @matthewmercer @CriticalRole @TitmouseInc https://t.co/VydxEYfaXi", 'withheld': None}, {'attachments': None, 'author_id': 1304855289208819713, 'context_annotations': None, 'conversation_id': 1495492095205068802, 'created_at': '2022-02-20 20:14:35+00:00', 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'Cobalt_han', 'name': 'Hannah', 'id': 1484073764623106049, 'id_str': '1484073764623106049', 'indices': [0, 11]}], 'urls': []}, 'geo': None, 'id': 't1495492095205068802', 'in_reply_to_user_id': 1484073764623106049, 'lang': 'en', 'possibly_sensitive': False, 'public_metrics': {'retweet_count': 0, 'reply_count': None, 'like_count': 0, 'quote_count': None}, 'referenced_tweets': None, 'reply_settings': None, 'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 'text': "@Cobalt_han I'm British, so that used to be me too! Now I live in Alaska! 🐻", 'withheld': None}, {'attachments': None, 'author_id': 1304855289208819713, 'context_annotations': None, 'conversation_id': 1495110995861114883, 'created_at': '2022-02-19 19:00:13+00:00', 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'itsginnydi', 'name': 'Ginny Di', 'id': 1263007808, 'id_str': '1263007808', 'indices': [3, 14]}], 'urls': []}, 'geo': None, 'id': 't1495110995861114883', 'in_reply_to_user_id': None, 'lang': 'en', 'possibly_sensitive': False, 'public_metrics': {'retweet_count': 101, 'reply_count': None, 'like_count': 0, 'quote_count': None}, 'referenced_tweets': None, 'reply_settings': None, 'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 'text': 'RT @itsginnydi: the only thing better than the Legend of Vox Machina will be the Legend of Vox Machina the second time through 👏', 'withheld': None}, {'attachments': None, 'author_id': 1304855289208819713, 'context_annotations': None, 'conversation_id': 1495110620277919745, 'created_at': '2022-02-19 18:58:44+00:00', 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': []}, 'geo': None, 'id': 't1495110620277919745', 'in_reply_to_user_id': 1304855289208819713, 'lang': 'en', 'possibly_sensitive': False, 'public_metrics': {'retweet_count': 0, 'reply_count': None, 'like_count': 4, 'quote_count': None}, 'referenced_tweets': None, 'reply_settings': None, 'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 'text': "Lucky and his sister, among other bears, were orphaned as cubs by human behavior. Due to the lack of rehab &amp; release program for bears in Alaska, they would have been destroyed if our sanctuary didn't offer them a forever home. To learn more, check out Fortress of the Bear! (2/2)", 'withheld': None}]
-
-
+roughtweets =
 [
     {
       "attachments": null,
