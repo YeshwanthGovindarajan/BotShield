@@ -33,8 +33,13 @@ real time tweet similarity overide
 Feature Names:
 
 profile_completeness_score
+
 total_likes_received
+
 total_replies_received
+
 avg_tweets_per_day
+
 avg_tweet_text_length
+
 follower_following_ratio
